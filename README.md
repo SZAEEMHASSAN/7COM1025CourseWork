@@ -7,3 +7,5 @@ Create Day Enum, BookingStatus Enum, and TimeSlot Enum
 # 2 step2
 Create member class
 
+# 3 step3
+Lesson and Review classes are created
