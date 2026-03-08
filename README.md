@@ -9,3 +9,9 @@ Create member class
 
 # 3 step3
 Lesson and Review classes are created
+implementation and methods are creted
+
+# 4 step4
+package added in ui with name of zaeem.com.flc.ui and imported in model class
+implementation added in mainapp class 
+build the project.
