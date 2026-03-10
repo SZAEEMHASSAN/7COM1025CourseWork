@@ -15,3 +15,7 @@ implementation and methods are creted
 package added in ui with name of zaeem.com.flc.ui and imported in model class
 implementation added in mainapp class 
 build the project.
+
+# 5 step5
+booking class added with different methods.
+implementation of methods are also working.
