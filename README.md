@@ -19,3 +19,7 @@ build the project.
 # 5 step5
 booking class added with different methods.
 implementation of methods are also working.
+
+# 6 step6
+dataseeder class added and implementation of lesson methods.
+
