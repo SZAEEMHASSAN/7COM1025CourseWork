@@ -106,7 +106,7 @@ The application now demonstrates:
 
 ---
 
-## Commit Included
+## Add DataSeeder and FLCSystem classes
 
 **Add DataSeeder and FLCSystem core functionality**
 
@@ -115,3 +115,10 @@ This includes:
 - FLCSystem with booking and reporting logic
 - Updated MainApp for testing
 
+
+## Add attendedCountForLesson helper and refactor monthly lesson report
+
+- Added helper method attendedCountForLesson(String lessonId) to count ATTENDED bookings per lesson
+- Replaced printMonthlyLessonReport() implementation to use helper method
+- Sorted lessons by weekend, day, and time slot
+- Displayed attended count and average rating for each lesson
