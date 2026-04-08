@@ -140,7 +140,7 @@ public class FLCSystem {
                             l.averageRating());
                 });
     }
-    
+
 
     public void printMonthlyIncomeReport(int monthNo) {
         int startW = (monthNo == 1) ? 1 : 5;
